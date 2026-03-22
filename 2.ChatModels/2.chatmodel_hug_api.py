@@ -12,7 +12,7 @@
 # )
 
 # result = llm.invoke("What is the capital of France?")
-# print(result)
+# print(result)s
 import torch
 from transformers import pipeline
 
